@@ -6,3 +6,5 @@
 <img src="asset/UK-flag.jpg" height=250 width=250>
 <h2>South Korea</h2>
 <img src="asset/KS-flag.jpg" height=250 width=250>
+<h2>Japan</h2>
+<img src="asset/JPN-flag.jpg" height=250 width=250>
