@@ -1,5 +1,5 @@
 # Police-Project
-<h1>Police history & culture</h1>
+<h2>Police history & culture</h2>
 <h2>Sid Hatfield (Matewan’s chief of police)</h2>
 <h3>Birthday: May 15</h3>
 <img src="asset/Sid-Hatfield.png" height=500 width=500>
